@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    padding: 200px;
+    
+}
+.main, ol, ul, li, a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.main h6{
+    font-size: 100px;
+    font-weight: 500;
+    font-style: normal;
+}
